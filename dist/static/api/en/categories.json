@@ -1,0 +1,24 @@
+{
+  "items":[
+    {
+      "name":"All Arts",
+      "category": "works"
+    },
+    {
+      "name":"Portrait",
+      "category": "portrait"
+    },
+    {
+      "name":"Landscape",
+      "category": "landscape"
+    },
+    {
+      "name":"Sketch",
+      "category": "sketch"
+    },
+    {
+      "name":"Graphic",
+      "category": "graphic"
+    }
+  ]
+}

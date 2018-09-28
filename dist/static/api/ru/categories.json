@@ -1,0 +1,24 @@
+{
+  "items":[
+    {
+      "name":"Все работы",
+      "category": "works"
+    },
+    {
+      "name":"Портреты",
+      "category": "portrait"
+    },
+    {
+      "name":"Пейзажи",
+      "category": "landscape"
+    },
+    {
+      "name":"Этюды",
+      "category": "sketch"
+    },
+    {
+      "name":"Графика",
+      "category": "graphic"
+    }
+  ]
+}

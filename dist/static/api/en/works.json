@@ -1,0 +1,288 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "url": "moonlight_over_the_loire",
+      "category": "portrait",
+      "image": {
+        "thumb": ["https://d13egrxi1n6w2z.cloudfront.net/63572/2736950x800+v=201805240547c201805212040/.jpg",
+          "https://d13egrxi1n6w2z.cloudfront.net/63572/2668638x800+v=201805212040c201805212040/.jpg"]
+      },
+      "title": "New way of life",
+      "tags" : [
+        "canvas","tempera"
+      ],
+      "description": "This portrait of a thoughtful man was written from nature, in an old pristine train and shaggy-premonished year.",
+      "year": "2015"
+    },
+    {
+      "id": 2,
+      "url": "moonlight_over_the_loir",
+      "category": "portrait",
+      "image":{
+        "thumb": ["https://d13egrxi1n6w2z.cloudfront.net/63572/2668850x800+v=201805212040c201805212040/.jpg",
+          "https://d13egrxi1n6w2z.cloudfront.net/63572/2606071x800+v=201805212040c201805212040/.jpg"]
+      },
+      "title": "Portrait of a girl",
+      "tags" : [
+        "canvas","oil","tempera"
+      ],
+      "description": "Some other description.",
+      "year": "2012"
+    },
+    {
+      "id": 3,
+      "url": "moonlight_over_the_lore",
+      "category": "portrait",
+      "image":{
+        "thumb":["https://d13egrxi1n6w2z.cloudfront.net/63572/2314448x800+v=201805212040c201805212040/.jpg",
+          "https://d13egrxi1n6w2z.cloudfront.net/63572/2286210x800+v=201805212040c201805212040/.jpg"]
+      },
+      "title": "Unknown",
+      "tags" : [
+        "canvas","oil","tempera"
+      ],
+      "description": "",
+      "year": "2000"
+    },
+    {
+      "id": 4,
+      "url": "moonlight_over_the_lire",
+      "category": "portrait",
+      "image":{
+        "thumb":["https://d13egrxi1n6w2z.cloudfront.net/63572/2212702x800+v=201805212040c201805212040/.jpg"]
+      },
+      "title": "Valley",
+      "tags" : [
+        "canvas","oil","tempera"
+      ],
+      "description": "The museum hosts an annual exhibition of more than 300 paintings and sculptures of the best contemporary Western artists in the country.",
+      "year": "2010"
+    },
+    {
+      "id": 5,
+      "url": "moonlight_over_the_oire",
+      "category": "sketch",
+      "image":{
+        "thumb":["https://d13egrxi1n6w2z.cloudfront.net/63572/2184589x800+v=201805212040c201805212040/.jpg"]
+      },
+      "title": "In the leaves",
+      "tags" : [
+        "canvas","oil","tempera"
+      ],
+      "description": "The museum hosts an annual exhibition of more than 300 paintings and sculptures of the best contemporary Western artists in the country.",
+      "year": "2013"
+    },
+    {
+      "id": 6,
+      "url": "moonlight_over_he_loire",
+      "category": "landscape",
+      "image":{
+        "thumb":["https://d13egrxi1n6w2z.cloudfront.net/63572/2214276x800+v=201805212040c201805212040/.jpg"]
+      },
+      "title": "Snow melting",
+      "tags" : [
+        "canvas","oil","tempera"
+      ],
+      "description": "The museum hosts an annual exhibition of more than 300 paintings and sculptures of the best contemporary Western artists in the country.",
+      "year": "2011"
+    },
+    {
+      "id": 7,
+      "url": "moonlight_over_te_loire",
+      "category": "landscape",
+      "image":{
+        "thumb":["https://d13egrxi1n6w2z.cloudfront.net/63572/2214884x800+v=201805212040c201805212040/.jpg",
+          "https://d13egrxi1n6w2z.cloudfront.net/63572/2214887x800+v=201805212040c201805212040/.jpg"]
+      },
+      "title": "Road",
+      "tags" : [
+        "canvas","oil","tempera"
+      ],
+      "description": "The museum hosts an annual exhibition of more than 300 paintings and sculptures of the best contemporary Western artists in the country.",
+      "year": "2009"
+    },
+    {
+      "id": 8,
+      "url": "moonlight_over_loire",
+      "category": "landscape",
+      "image":{
+        "thumb":["https://d13egrxi1n6w2z.cloudfront.net/63572/2214298x800+v=201805212040c201805212040/.jpg"]
+      },
+      "title": "Unkown soldiers grave",
+      "tags" : [
+        "canvas","oil","tempera"
+      ],
+      "description": "The museum hosts an annual exhibition of more than 300 paintings and sculptures of the best contemporary Western artists in the country.",
+      "year": "2015"
+    },
+    {
+      "id": 9,
+      "url": "moonlght_over_the_loire",
+      "category": "landscape",
+      "image":{
+        "thumb":["https://d13egrxi1n6w2z.cloudfront.net/63572/2214886x800+v=201805212040c201805212040/.jpg"]
+      },
+      "title": "In the valley",
+      "tags" : [
+        "canvas","oil","tempera"
+      ],
+      "description": "The museum hosts an annual exhibition of more than 300 paintings and sculptures of the best contemporary Western artists in the country.",
+      "year": "2010 г."
+    },
+    {
+      "id": 10,
+      "url": "moonlight_oer_the_loire",
+      "category": "landscape",
+      "image":{
+        "thumb":["https://d13egrxi1n6w2z.cloudfront.net/63572/2214297x800+v=201805212040c201805212040/.jpg"]
+      },
+      "title": "Red sun",
+      "tags" : [
+        "холст","масло","темпера"
+      ],
+      "description": "The museum hosts an annual exhibition of more than 300 paintings and sculptures of the best contemporary Western artists in the country.",
+      "year": "2000"
+    },
+    {
+      "id": 11,
+      "url": "moonlight_over_the_loire",
+      "category": "landscape",
+      "image":{
+        "thumb":["https://d13egrxi1n6w2z.cloudfront.net/63572/2214288x800+v=201805212040c201805212040/.jpg"]
+      },
+      "title": "Mountain range",
+      "tags" : [
+        "canvas","oil","tempera"
+      ],
+      "description": "The museum hosts an annual exhibition of more than 300 paintings and sculptures of the best contemporary Western artists in the country.",
+      "year": "2015"
+    },
+    {
+      "id": 12,
+      "url": "moonliht_over_the_oire",
+      "category": "landscape",
+      "image":{
+        "thumb":["https://d13egrxi1n6w2z.cloudfront.net/63572/2214271x800+v=201805212040c201805212040/.jpg"]
+      },
+      "title": "Dawn on the River",
+      "tags" : [
+        "canvas","oil","tempera"
+      ],
+      "description": "",
+      "year": "2003"
+    },
+    {
+      "id": 13,
+      "url": "oonlight_over_the_loire",
+      "category": "portrait",
+      "image":{
+        "thumb":["https://d13egrxi1n6w2z.cloudfront.net/63572/2184573x800+v=201805212040c201805212040/.jpg"]
+      },
+      "title": "Early morning",
+      "tags" : [
+        "canvas","oil","tempera"
+      ],
+      "description": "The museum hosts an annual exhibition of more than 300 paintings and sculptures of the best contemporary Western artists in the country.",
+      "year": "2006"
+    },
+    {
+      "id": 14,
+      "url": "moonight_over_the_loire",
+      "category": "portrait",
+      "image":{
+        "thumb":["https://d13egrxi1n6w2z.cloudfront.net/63572/2214286x800+v=201805212040c201805212040/.jpg"]
+      },
+      "title": "The stranger in the train",
+      "tags" : [
+        "canvas","oil","tempera"
+      ],
+      "description": "The museum hosts an annual exhibition of more than 300 paintings and sculptures of the best contemporary Western artists in the country.",
+      "year": "2015"
+    },
+    {
+      "id": 15,
+      "url": "moonlight_over_the_lire",
+      "category": "sketch",
+      "image":{
+        "thumb":["https://d13egrxi1n6w2z.cloudfront.net/63572/2214279x800+v=201805212040c201805212040/.jpg"]
+      },
+      "title": "Sketch in profile",
+      "tags" : [
+        "canvas","oil","tempera"
+      ],
+      "description": "The museum hosts an annual exhibition of more than 300 paintings and sculptures of the best contemporary Western artists in the country.",
+      "year": "2015"
+    },
+    {
+      "id": 16,
+      "url": "moonlight_over_the_lore",
+      "category": "portrait",
+      "image":{
+        "thumb":["https://d13egrxi1n6w2z.cloudfront.net/63572/2214280x800+v=201805212040c201805212040/.jpg"]
+      },
+      "title": "Girl with a necklace",
+      "tags" : [
+        "canvas","oil","tempera"
+      ],
+      "description": "The museum hosts an annual exhibition of more than 300 paintings and sculptures of the best contemporary Western artists in the country.",
+      "year": "2015"
+    },
+    {
+      "id": 17,
+      "url": "moonlight_oerthe_loire",
+      "category": "graphic",
+      "image":{
+        "thumb":["https://d13egrxi1n6w2z.cloudfront.net/63572/2214292x800+v=201805212040c201805212040/.jpg"]
+      },
+      "title": "Lisa",
+      "tags" : [
+        "canvas","oil","tempera"
+      ],
+      "description": "The museum hosts an annual exhibition of more than 300 paintings and sculptures of the best contemporary Western artists in the country.",
+      "year": "2015"
+    },
+    {
+      "id": 18,
+      "url": "light_over_the_loire",
+      "category": "portrait",
+      "image":{
+        "thumb":["https://d13egrxi1n6w2z.cloudfront.net/63572/2351635x800+v=201805212040c201805212040/.jpg"]
+      },
+      "title": "Under the apple tree",
+      "tags" : [
+        "canvas","oil","tempera"
+      ],
+      "description": "The museum hosts an annual exhibition of more than 300 paintings and sculptures of the best contemporary Western artists in the country.",
+      "year": "2015"
+    },
+    {
+      "id": 19,
+      "url": "moon_over_the_loire",
+      "category": "graphic",
+      "image":{
+        "thumb":["https://d13egrxi1n6w2z.cloudfront.net/63572/2184566x800+v=201805212040c201805212040/.jpg"]
+      },
+      "title": "Michael",
+      "tags" : [
+        "canvas","oil","tempera"
+      ],
+      "description": "",
+      "year": "2015"
+    },
+    {
+      "id": 20,
+      "url": "moonlight_er_the_loire",
+      "category": "sketch",
+      "image":{
+        "thumb":["https://d13egrxi1n6w2z.cloudfront.net/63572/2184578x800+v=201805212040c201805212040/.jpg"]
+      },
+      "title": "Moonlight Over the Loire Valley",
+      "tags" : [
+        "canvas","oil","tempera"
+      ],
+      "description": "The museum hosts an annual exhibition of more than 300 paintings and sculptures of the best contemporary Western artists in the country.",
+      "year": "2015"
+    }
+  ]
+}
